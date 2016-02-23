@@ -1,0 +1,28 @@
+{
+  "name": "angular-material",
+  "authors": [
+    "Miguel Cardenas <miguelcarde.3@gmail.com>"
+  ],
+  "description": "practice to use angular material",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-material": "^1.0.5",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "hammerjs": "^2.0.6"
+  }
+}
